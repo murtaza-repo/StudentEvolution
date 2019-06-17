@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "211594031815",
+    "firebase_url": "https://student-evolution.firebaseio.com",
+    "project_id": "student-evolution",
+    "storage_bucket": "student-evolution.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211594031815:android:2b5be5aa960e8805",
+        "android_client_info": {
+          "package_name": "app.com.studentsevolution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211594031815-md9kck4jemcd4d2r20apnpq99rkllj1h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.com.studentsevolution",
+            "certificate_hash": "160f190c5664d1e05efc8b3333a130c035a9a025"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUxjoJXL7XUeAet2IjeeOGgvUn_pvF9ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211594031815-0vlnvingpe4o2mds7i1m18sfa904dast.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
